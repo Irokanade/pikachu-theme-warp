@@ -10,4 +10,4 @@ mkdir -p $HOME/.warp/themes/
 cp -r ~/Downloads/pikachu_theme $HOME/.warp/themes/
 ```
 
-<img src='./previews/pikachu_theme_preview.png' width='500'>
+<img src='./previews/pikachu_theme_screenshot.png' width='500'>
