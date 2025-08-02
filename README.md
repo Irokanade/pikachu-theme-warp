@@ -5,10 +5,9 @@ My pikachu theme for warp
 # Create Warp themes directory
 mkdir -p $HOME/.warp/themes/
 
-# Copy the Pikachu theme (replace {{path}} with your actual themes path)
-cp -r ~/Downloads/pikachu {{path_to_your_themes_directory_from_step1}}
+# Download the pikachu_theme folder
+# Then copy the Pikachu theme folder to your Warp themes directory
+cp -r ~/Downloads/pikachu_theme $HOME/.warp/themes/
 ```
 
-ℹ️ **Remember**:  
-- Replace `{{path_to_your_themes_directory_from_step1}}` with `$HOME/.warp/themes/`.  
-- Use `-r` if `pikachu` is a folder.
+<img src='./previews/pikachu_theme_preview.png' width='500'>
